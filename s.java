@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 SFA17SCM03A
 SFA17SCM78N
 SFA17SCM51B
 SFA17SCM16K
+SFA17SCM34S
 SFA17SCM68S
-=======
 
->>>>>>> parent of d4d1c5d... Fixes #21. SFA17SCM68S first name added
+
+
